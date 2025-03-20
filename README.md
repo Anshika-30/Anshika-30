@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anshika</h1>
 <h3 align="center">Transforming data into actionable insights 🚀</h3>
 
-- 👨‍💻 Explore my projects here: [GitHub Profile](https://github.com/Anshika-30) 
+- 👨‍💻 Explore my projects here: [GitHub](https://github.com/Anshika-30) 
 
 - 💬 Ask me about: **Data Analysis, Python, SQL, Power BI, and Tableau**
 
